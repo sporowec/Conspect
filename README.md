@@ -11,9 +11,9 @@ https://stepik.org/media/attachments/lesson/580046/movies.xls
 Инструкция:
 
 
-1) Открываем ссылку (https://colab.research.google.com/drive/14hyVLLtdth5_tyeIHhLx8n3VV8IGowXW#scrollTo=Q3OpRgkWjz8R).
+№ 1) Открываем ссылку (https://colab.research.google.com/drive/14hyVLLtdth5_tyeIHhLx8n3VV8IGowXW#scrollTo=Q3OpRgkWjz8R).
 2) Скачиваем два прикрепленных файла.
-3) В Google Colaboratory слева нажимаем на папку "Файлы".
+№ 3) В Google Colaboratory слева нажимаем на папку "Файлы".
 4) Перемещаем туда оба скачанных файла.
 
 Готово! Можно запускать, вносить изменения и играться с данными :)
