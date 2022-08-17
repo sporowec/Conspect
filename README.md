@@ -33,6 +33,7 @@ https://stepik.org/media/attachments/lesson/580046/movies.xls
 
 Алгоритм линейной регрессии - https://habr.com/ru/company/ods/blog/323890
 
+
 Работа с пропусками - https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779
 
 Работа с категориальными данными - https://towardsdatascience.com/categorical-encoding-using-label-encoding-and-one-hot-encoder-911ef77fb5bd
