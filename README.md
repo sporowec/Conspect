@@ -57,6 +57,8 @@ https://ru.coursera.org/specializations/machine-learning-data-analysis?ranMID=40
 
 https://ru.coursera.org/learn/vvedenie-mashinnoe-obuchenie
 
+
+
 На английском:
 
 https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=eWwXyydyhzs&ranSiteID=eWwXyydyhzs-6rrm4vCLSzWHmlBKxMe4JQ&siteID=eWwXyydyhzs-6rrm4vCLSzWHmlBKxMe4JQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=eWwXyydyhzs
