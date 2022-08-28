@@ -5,6 +5,8 @@ for_study DATA from stepik
 Прикрепленные файлы:
 
 
+
+
 https://stepik.org/media/attachments/lesson/580046/diamonds_moded.xls
 
 
