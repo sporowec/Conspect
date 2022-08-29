@@ -7,6 +7,7 @@ for_study DATA from stepik
 
 
 
+
 https://stepik.org/media/attachments/lesson/580046/diamonds_moded.xls
 
 
@@ -57,6 +58,7 @@ https://stepik.org/media/attachments/lesson/580046/movies.xls
 Онлайн-курсы:
 
 На русском:
+
 
 https://ru.coursera.org/specializations/machine-learning-data-analysis?ranMID=40328&ranEAID=eWwXyydyhzs&ranSiteID=eWwXyydyhzs-_Ev3JOSfC3VxKmYU4Fud7A&siteID=eWwXyydyhzs-_Ev3JOSfC3VxKmYU4Fud7A&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=eWwXyydyhzs
 
