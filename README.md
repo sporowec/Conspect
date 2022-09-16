@@ -6,6 +6,8 @@ for_study DATA from stepik
 https://stepik.org/media/attachments/lesson/580046/diamonds_moded.xls
 
 
+
+
 https://stepik.org/media/attachments/lesson/580046/movies.xls
 
 Во время урока мы работали в программе Visual Studio Code. 
