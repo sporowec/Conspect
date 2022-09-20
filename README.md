@@ -7,12 +7,13 @@ https://stepik.org/media/attachments/lesson/580046/diamonds_moded.xls
 
 https://stepik.org/media/attachments/lesson/580046/movies.xls
 
+
 Во время урока мы работали в программе Visual Studio Code. 
 Это среда разработки от компании Microsoft, она доступна для скачивания в открытом доступе. 
 
 Те же действия можно совершать прямо в браузере, ничего не скачивая - в Google Colaboratory.
  Для простоты обучения мы рекомендуем начать именно с Google Colaboratory, так как его интерфейс понятнее и комфортнее для освоения базовых навыков.
-
+ 
 Инструкция:
 
 
@@ -29,7 +30,7 @@ https://stepik.org/media/attachments/lesson/580046/movies.xls
 Также делимся полезными ссылками, которые помогут глубже изучить алгоритмы машинного обучения.
 
 Статьи:
-
+ 
 
 Алгоритм решающего дерева - https://habr.com/ru/company/ods/blog/322534/
 
