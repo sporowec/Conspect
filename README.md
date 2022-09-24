@@ -9,6 +9,7 @@ https://stepik.org/media/attachments/lesson/580046/movies.xls
 
 
 Во время урока мы работали в программе Visual Studio Code. 
+
 Это среда разработки от компании Microsoft, она доступна для скачивания в открытом доступе. 
 
 Те же действия можно совершать прямо в браузере, ничего не скачивая - в Google Colaboratory.
