@@ -34,6 +34,8 @@ https://stepik.org/media/attachments/lesson/580046/movies.xls
 Статьи:
  
 
+
+
 Алгоритм решающего дерева - https://habr.com/ru/company/ods/blog/322534/
 
 Алгоритм линейной регрессии - https://habr.com/ru/company/ods/blog/323890
