@@ -1,6 +1,6 @@
 # Conspect
 for_study DATA from stepik
-
+.
 ,
 Прикрепленные файлы:
 
